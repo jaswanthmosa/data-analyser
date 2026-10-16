@@ -1,0 +1,14 @@
+order_id,date,product,quantity,unit_price
+A100,2026-01-05,Notebook,3,45
+A101,2026-01-06,Pen,10,10
+A102,2026-01-08,Backpack,1,850
+A103,2026-02-02,Notebook,5,45
+A104,2026-02-10,Pen,15,10
+A105,2026-02-12,Water Bottle,2,180
+A106,2026-03-01,Backpack,2,850
+A107,2026-03-03,Notebook,4,45
+A108,2026-03-10,Water Bottle,1,180
+A109,2026-03-11,Pen,20,10
+A109,2026-03-11,Pen,20,10
+A110,invalid-date,Marker,2,25
+A111,2026-03-15,Folder,0,30
